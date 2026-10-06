@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,45:8B0000,100:FF0000&height=240&section=header&text=SUKUNA&fontColor=FF0000&fontSize=80&fontAlignY=38&desc=The+King+of+Curses&descSize=22&descColor=FFD700&descAlignY=60&animation=fadeIn" width="100%" alt="Sukuna" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:8B0000,100:FF0000&height=280&section=header&text=SUKUNA&fontSize=100&fontColor=FF0000&stroke=0D0D0D&strokeWidth=3&fontAlignY=38&desc=%E2%9B%A9%EF%B8%8F+THE+KING+OF+CURSES+%E2%9B%A9%EF%B8%8F&descSize=24&descColor=FFD700&descAlignY=62&animation=twinkling" width="100%" alt="Sukuna" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=800&height=70&lines=%E3%80%8C+%E5%85%A9%E9%9D%A2%E5%AE%BF%E5%84%BA+%E3%80%8D;MALEVOLENT+SHRINE;%E3%80%8C+%E5%85%A9%E9%9D%A2%E5%AE%BF%E5%84%BA+%E3%80%8D" alt="Malevolent Shrine" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=34&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=850&height=80&lines=%E3%80%8C+%E5%85%A9%E9%9D%A2%E5%AE%BF%E5%84%BA+%E3%80%8D;MALEVOLENT+SHRINE;%E3%80%8C+%E5%85%A9%E9%9D%A2%E5%AE%BF%E5%84%BA+%E3%80%8D" alt="Malevolent Shrine" />
 
 <h1>⛩️ SEU-NOME ⛩️</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=15&duration=4000&pause=1500&color=FFD700&center=true&vCenter=true&width=650&lines=Rei+das+Maldi%C3%A7%C3%B5es;Desenvolvedor+Web+%26+Backend;Dom%C3%ADnio+Expandido%3A+Santu%C3%A1rio+Malevolente" alt="Rei das Maldições" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&duration=4000&pause=1500&color=FFD700&center=true&vCenter=true&width=700&lines=Rei+das+Maldi%C3%A7%C3%B5es;Desenvolvedor+Web+%26+Backend;Expans%C3%A3o+de+Dom%C3%ADnio%3A+Santu%C3%A1rio+Malevolente" alt="Rei das Maldições" />
 
 <br>
 
 <img src="https://img.shields.io/badge/%F0%9F%A9%B8_ENERGIA_AMALDI%C3%87OADA-ILIMITADA-000000?style=for-the-badge&labelColor=0D0D0D&color=8B0000" alt="Energia Amaldiçoada" />
 <img src="https://img.shields.io/badge/%E2%9B%A9%EF%B8%8F_DOM%C3%8DNIO-ATIVO-000000?style=for-the-badge&labelColor=0D0D0D&color=FF0000" alt="Domínio Ativo" />
+<img src="https://img.shields.io/badge/%F0%9F%91%91_CLASSE-ESPECIAL-000000?style=for-the-badge&labelColor=0D0D0D&color=FFD700" alt="Classe Especial" />
 
 <br><br>
 
@@ -19,17 +20,21 @@
 <i>"Se eu não sou o mais forte, então eu simplesmente não preciso de ninguém."</i>
 </blockquote>
 
+<!-- OPCIONAL: suba uma imagem ou GIF do Sukuna no seu repositório de perfil (ex.: sukuna.gif) e troque este comentário pela linha abaixo, sem os símbolos de comentário.
+<img src="sukuna.gif" width="320" alt="Sukuna" />
+-->
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separador" />
 
 <br>
 
-<h2>「 Sobre Mim 」</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=26&duration=2500&pause=100000&repeat=false&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=%E3%80%8C+Sobre+Mim+%E3%80%8D" alt="Sobre Mim" />
 
-<sub>━━━━━━━━━━ ⛩️ ━━━━━━━━━━</sub>
+<sub>━━━━━━━━━━━━ ⛩️ ━━━━━━━━━━━━</sub>
 
-<br>
+<br><br>
 
 <table align="center">
   <tr>
@@ -45,7 +50,15 @@
     <td align="center">Desenvolvimento Web &amp; Backend</td>
   </tr>
   <tr>
-    <td align="center"><b>🩸 Status</b></td>
+    <td align="center"><b>🩸 Técnica Inata</b></td>
+    <td align="center">Clivar &amp; Desmantelar (bugs)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>⛩️ Domínio</b></td>
+    <td align="center">Santuário Malevolente</td>
+  </tr>
+  <tr>
+    <td align="center"><b>💀 Status</b></td>
     <td align="center">Desenvolvendo projetos...</td>
   </tr>
 </table>
@@ -56,11 +69,11 @@
 
 <br>
 
-<h2>「 Arsenal Técnico 」</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=26&duration=2500&pause=100000&repeat=false&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=%E3%80%8C+Arsenal+T%C3%A9cnico+%E3%80%8D" alt="Arsenal Técnico" />
 
-<sub>━━━━━━━━━━ 🔥 ━━━━━━━━━━</sub>
+<sub>━━━━━━━━━━━━ 🔥 ━━━━━━━━━━━━</sub>
 
-<br>
+<br><br>
 
 <h3>🩸 Linguagens de Ritual</h3>
 
@@ -91,11 +104,11 @@
 
 <br>
 
-<h2>「 Dimensões Conectadas 」</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=26&duration=2500&pause=100000&repeat=false&color=FF0000&center=true&vCenter=true&width=700&height=50&lines=%E3%80%8C+Dimens%C3%B5es+Conectadas+%E3%80%8D" alt="Dimensões Conectadas" />
 
-<sub>━━━━━━━━━━ 🩸 ━━━━━━━━━━</sub>
+<sub>━━━━━━━━━━━━ 🩸 ━━━━━━━━━━━━</sub>
 
-<br>
+<br><br>
 
 <a href="https://discord.com/users/SEU-ID"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000" alt="Discord" /></a>
 <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email" /></a>
@@ -118,7 +131,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas+ao+Templo&color=FF0000&labelColor=0D0D0D&style=for-the-badge" alt="Visitas ao Templo" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0D0D0D&height=160&section=footer&reversal=true" width="100%" alt="rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0D0D0D&height=180&section=footer&reversal=true" width="100%" alt="rodapé" />
 
 </div>
 
@@ -135,3 +148,7 @@ COMO ATIVAR OS CARDS DE ESTATÍSTICAS DEPOIS DOS PRIMEIROS COMMITS
 <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=0D0D0D&ring=FF0000&fire=FFD700&currStreakLabel=FF0000&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B0000&stroke=8B0000&border=8B0000" alt="Sequência" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&background=0D0D0D&title_color=FF0000&margin-w=10" alt="Troféus" />
+
+5. Os cards podem levar alguns minutos para aparecer, e o cache atualiza a cada poucas horas.
+6. Quando funcionarem, apague este comentário.
+-->
