@@ -1,37 +1,52 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,45:8B0000,100:FF0000&height=240&section=header&text=SUKUNA&fontColor=FF0000&fontSize=80&fontAlignY=38&desc=The+King+of+Curses&descSize=22&descColor=FFD700&descAlignY=60&animation=fadeIn" width="100%" alt="Sukuna" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=800&height=70&lines=%E3%80%8C+%E5%85%A9%E9%9D%A2%E5%AE%BF%E5%84%BA+%E3%80%8D;MALEVOLENT+SHRINE;%E3%80%8C+%E5%85%A9%E9%9D%A2%E5%AE%BF%E5%84%BA+%E3%80%8D" alt="Malevolent Shrine" />
 
 <h1>⛩️ SEU-NOME ⛩️</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=14&duration=4000&pause=1500&color=FFD700&center=true&vCenter=true&width=600&lines=Rei+das+Maldi%C3%A7%C3%B5es;Desenvolvedor+Web+%26+Backend" alt="Rei das Maldições" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=15&duration=4000&pause=1500&color=FFD700&center=true&vCenter=true&width=650&lines=Rei+das+Maldi%C3%A7%C3%B5es;Desenvolvedor+Web+%26+Backend;Dom%C3%ADnio+Expandido%3A+Santu%C3%A1rio+Malevolente" alt="Rei das Maldições" />
 
 <br>
 
-<i>"Se eu não sou o mais forte, então eu simplesmente não preciso de ninguém."</i>
+<img src="https://img.shields.io/badge/%F0%9F%A9%B8_ENERGIA_AMALDI%C3%87OADA-ILIMITADA-000000?style=for-the-badge&labelColor=0D0D0D&color=8B0000" alt="Energia Amaldiçoada" />
+<img src="https://img.shields.io/badge/%E2%9B%A9%EF%B8%8F_DOM%C3%8DNIO-ATIVO-000000?style=for-the-badge&labelColor=0D0D0D&color=FF0000" alt="Domínio Ativo" />
 
 <br><br>
 
+<blockquote>
+<i>"Se eu não sou o mais forte, então eu simplesmente não preciso de ninguém."</i>
+</blockquote>
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separador" />
+
+<br>
 
 <h2>「 Sobre Mim 」</h2>
 
-<table align="center" bgcolor="#0D0D0D">
+<sub>━━━━━━━━━━ ⛩️ ━━━━━━━━━━</sub>
+
+<br>
+
+<table align="center">
   <tr>
-    <td><b>👑 Título</b></td>
-    <td>Rei das Maldições</td>
+    <td align="center"><b>👑 Título</b></td>
+    <td align="center">Rei das Maldições</td>
   </tr>
   <tr>
-    <td><b>🔥 Elemento</b></td>
-    <td>Fogo</td>
+    <td align="center"><b>🔥 Elemento</b></td>
+    <td align="center">Fogo</td>
   </tr>
   <tr>
-    <td><b>⚔️ Área</b></td>
-    <td>Desenvolvimento Web &amp; Backend</td>
+    <td align="center"><b>⚔️ Área</b></td>
+    <td align="center">Desenvolvimento Web &amp; Backend</td>
   </tr>
   <tr>
-    <td><b>🩸 Status</b></td>
-    <td>Desenvolvendo projetos...</td>
+    <td align="center"><b>🩸 Status</b></td>
+    <td align="center">Desenvolvendo projetos...</td>
   </tr>
 </table>
 
@@ -39,7 +54,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separador" />
 
+<br>
+
 <h2>「 Arsenal Técnico 」</h2>
+
+<sub>━━━━━━━━━━ 🔥 ━━━━━━━━━━</sub>
+
+<br>
 
 <h3>🩸 Linguagens de Ritual</h3>
 
@@ -68,7 +89,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separador" />
 
+<br>
+
 <h2>「 Dimensões Conectadas 」</h2>
+
+<sub>━━━━━━━━━━ 🩸 ━━━━━━━━━━</sub>
+
+<br>
 
 <a href="https://discord.com/users/SEU-ID"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000" alt="Discord" /></a>
 <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email" /></a>
@@ -81,30 +108,30 @@
 
 <br>
 
+<blockquote>
 <i>"Curto, mas é o bastante."</i>
 <br>
 <b>— Sukuna Ryomen</b>
+</blockquote>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas+ao+Templo&color=FF0000&labelColor=0D0D0D&style=for-the-badge" alt="Visitas ao Templo" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0D0D0D&height=160&section=footer&reversal=true" width="100%" alt="rodapé" />
 
 </div>
 
 <!--
 COMO ATIVAR OS CARDS DE ESTATÍSTICAS DEPOIS DOS PRIMEIROS COMMITS
 
-1. O repositório do perfil precisa se chamar exatamente igual ao seu usuário do GitHub e ser público.
-2. Faça alguns commits e crie ao menos um repositório público. Os cards só mostram dados de atividade pública.
-3. Se quiser mostrar commits de repositórios privados, ative "Private contributions" nas configurações do seu perfil.
-4. Troque SEU-USUARIO pelo seu usuário, copie as linhas abaixo e cole dentro da div centralizada, logo antes do separador do rodapé.
+1. O repositório do perfil precisa ter exatamente o mesmo nome do seu usuário do GitHub e ser público.
+2. Faça alguns commits e crie ao menos um repositório público. Os cards só mostram atividade pública.
+3. Para contar commits de repositórios privados, ative "Private contributions" nas configurações do perfil.
+4. Troque SEU-USUARIO pelo seu usuário, copie as linhas abaixo e cole dentro da div centralizada, logo antes da imagem do rodapé.
 
 <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&bg_color=0D0D0D&title_color=FF0000&icon_color=DC143C&text_color=FFFFFF&border_color=8B0000" alt="Estatísticas" />
 
 <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=0D0D0D&ring=FF0000&fire=FFD700&currStreakLabel=FF0000&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B0000&stroke=8B0000&border=8B0000" alt="Sequência" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&background=0D0D0D&title_color=FF0000&margin-w=10" alt="Troféus" />
-
-5. Os cards podem demorar alguns minutos para aparecer e o cache atualiza a cada poucas horas.
-6. Quando os cards estiverem funcionando, apague este comentário.
--->
