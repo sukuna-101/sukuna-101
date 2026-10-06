@@ -110,9 +110,8 @@
 
 <br><br>
 
-<a href="https://discord.com/users/SEU-ID"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000" alt="Discord" /></a>
-<a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/SEU-ID"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn" /></a>
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000" alt="Discord" /></a>
+<a href="mailto:gabrielsilvaalexandre386@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email" /></a>
 <a href="https://www.instagram.com/SEU-ID"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000" alt="Instagram" /></a>
 
 <br><br>
