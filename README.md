@@ -147,7 +147,7 @@
 
 <br>
 
-<!-- JOGO DA COBRINHA INCORPORADO (BOTÃO) -->
+<!-- JOGO DA COBRINHA INCORPORADO -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=2500&pause=100000&repeat=false&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=%E3%80%8C+Jogo+da+Cobrinha+%E3%80%8D" alt="Jogo da Cobrinha" />
 
 <sub>━━━━━━━━━━━━ 🐍 ━━━━━━━━━━━━</sub>
@@ -161,6 +161,25 @@
 <br><br>
 
 <p><i>Clique no botão acima para desafiar a cobra.</i></p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separador" />
+
+<br>
+
+<!-- SEÇÃO ANIMAÇÃO DA COBRINHA (SNAKE) -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=2500&pause=100000&repeat=false&color=FF0000&center=true&vCenter=true&width=750&height=60&lines=%E3%80%8C+Santu%C3%A1rio+das+Contribui%C3%A7%C3%B5es+%E3%80%8D" alt="Santuário das Contribuições" />
+
+<sub>━━━━━━━━━━━━ 🐍 ━━━━━━━━━━━━</sub>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sukuna-101/sukuna-101/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sukuna-101/sukuna-101/output/github-snake.svg">
+  <img alt="Animação da Cobrinha" src="https://raw.githubusercontent.com/sukuna-101/sukuna-101/output/github-snake.svg" width="100%">
+</picture>
 
 <br>
 
