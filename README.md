@@ -72,8 +72,8 @@
 
 <br>
 
-<!-- VÍDEO DO SUKUNA -->
-<video src="sukuna-ryomen-sukuna.mp4" width="400" autoplay loop muted></video>
+<!-- GIF DO SUKUNA -->
+<img src="sukuna-ryomen-sukuna-ezgif.com-video-to-gif-converter.gif" width="400" alt="Sukuna" />
 <p><i>「Expansão de Domínio: Santuário Malevolente」</i></p>
 
 <br>
