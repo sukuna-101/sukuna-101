@@ -3,12 +3,12 @@
 <!-- BANNER SUPERIOR ULTRA DARK -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1A0000,70:4B0000,100:8B0000&height=320&section=header&text=SUKUNA&fontSize=130&fontColor=FF0000&stroke=000000&strokeWidth=5&fontAlignY=32&desc=%E2%9B%A9%EF%B8%8F+O+REI+DAS+MALDI%C3%87%C3%95ES+%E2%9B%A9%EF%B8%8F&descSize=28&descColor=FFD700&descAlignY=62&animation=twinkling" width="100%" alt="Sukuna Header" />
 
-<!-- TEXTO DIGITADO (MALEVOLENT SHRINE) -->
+<!-- TEXTO DIGITADO (MALEVOLENT SHRINE) - MAIS AGRESSIVO -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=42&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=950&height=100&lines=%E3%80%8C+%E5%85%A9%E9%9D%A2%E5%AE%BF%E5%84%BA+%E3%80%8D;MALEVOLENT+SHRINE;%E3%80%8C+%E5%85%A9%E9%9D%A2%E5%AE%BF%E5%84%BA+%E3%80%8D;EXPANS%C3%83O+DE+DOM%C3%8DNIO" alt="Malevolent Shrine" />
 
 <h1>⛩️ SUKUNA ⛩️</h1>
 
-<!-- SUBTÍTULO -->
+<!-- SUBTÍTULO MAIS AMEAÇADOR -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=20&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=850&lines=Rei+das+Maldi%C3%A7%C3%B5es;Desenvolvedor+Web+%26+Backend;Aquele+que+transforma+caf%C3%A9+em+c%C3%B3digo;Santu%C3%A1rio+Malevolente+Ativo" alt="Rei das Maldições" />
 
 <br>
@@ -27,7 +27,7 @@
 
 <br>
 
-<!-- SEPARADOR -->
+<!-- SEPARADOR DARK -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separador" />
 
 <br>
@@ -72,7 +72,7 @@
 
 <br>
 
-<!-- GIF DO SUKUNA -->
+<!-- GIF DO SUKUNA (MANTIDO) -->
 <img src="sukuna-ryomen-sukuna-ezgif.com-video-to-gif-converter.gif" width="420" alt="Sukuna" />
 <p><i>「Expansão de Domínio: Santuário Malevolente」</i></p>
 
@@ -144,42 +144,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<!-- JOGO DA COBRINHA INCORPORADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=2500&pause=100000&repeat=false&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=%E3%80%8C+Jogo+da+Cobrinha+%E3%80%8D" alt="Jogo da Cobrinha" />
-
-<sub>━━━━━━━━━━━━ 🐍 ━━━━━━━━━━━━</sub>
-
-<br><br>
-
-<a href="https://github.com/sukuna-101/Snake-Game">
-  <img src="https://img.shields.io/badge/🎮_JOGAR_AGORA-Snake_Game-0A0A0A?style=for-the-badge&labelColor=8B0000&color=FF0000&logo=github&logoColor=FFD700" alt="Jogar Snake Game" />
-</a>
-
-<br><br>
-
-<p><i>Clique no botão acima para desafiar a cobra.</i></p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separador" />
-
-<br>
-
-<!-- SEÇÃO ANIMAÇÃO DA COBRINHA (SNAKE) -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=2500&pause=100000&repeat=false&color=FF0000&center=true&vCenter=true&width=750&height=60&lines=%E3%80%8C+Santu%C3%A1rio+das+Contribui%C3%A7%C3%B5es+%E3%80%8D" alt="Santuário das Contribuições" />
-
-<sub>━━━━━━━━━━━━ 🐍 ━━━━━━━━━━━━</sub>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sukuna-101/sukuna-101/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sukuna-101/sukuna-101/output/github-snake.svg">
-  <img alt="Animação da Cobrinha" src="https://raw.githubusercontent.com/sukuna-101/sukuna-101/output/github-snake.svg" width="100%">
-</picture>
 
 <br>
 
